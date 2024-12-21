@@ -1,0 +1,6 @@
+,precision,recall,f1-score,support
+Non-Spam,0.91,0.94,0.93,1116
+Spam,0.91,0.86,0.88,725
+accuracy,,,0.91,1841
+macro avg,0.91,0.9,0.91,1841
+weighted avg,0.91,0.91,0.91,1841

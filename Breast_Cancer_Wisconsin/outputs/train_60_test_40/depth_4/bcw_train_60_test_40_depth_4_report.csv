@@ -1,0 +1,6 @@
+,precision,recall,f1-score,support
+Benign,0.93,0.96,0.94,143
+Malignant,0.93,0.87,0.9,85
+accuracy,,,0.93,228
+macro avg,0.93,0.91,0.92,228
+weighted avg,0.93,0.93,0.92,228
