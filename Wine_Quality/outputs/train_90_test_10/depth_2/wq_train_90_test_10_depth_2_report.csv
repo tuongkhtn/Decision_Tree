@@ -1,0 +1,7 @@
+,precision,recall,f1-score,support
+High quality,0.46,0.41,0.43,128
+Low quality,0.0,0.0,0.0,24
+Standard quality,0.82,0.88,0.85,498
+accuracy,,,0.76,650
+macro avg,0.43,0.43,0.43,650
+weighted avg,0.72,0.76,0.74,650
